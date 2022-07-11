@@ -19,7 +19,7 @@ namespace SampleWinForm
     {
         public Form3()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
 
         private void btn_binary_wr_Click(object sender, EventArgs e)
